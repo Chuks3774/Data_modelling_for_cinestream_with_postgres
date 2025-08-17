@@ -5,7 +5,7 @@ The warehouse was designed using demensional modeling principles to integrate an
 
 This project delivers a fully functional data warehouse solution for CineStream, a digital movie rental platform. The warehouse was designed using dimensional modeling principles to integrate and optimize data from the operational dvdrental database. 
  
-![CineStream Data Warehouse Architecture](cinestream_architecture.png)
+![CineStream Data Warehouse Architecture](cinestream_datawarehouse_arch.png)
 ---
 ## Key Features  
 - **Data Warehouse Schema (dvddw):** Structured for analytical workloads with fact and dimension tables.  
@@ -38,5 +38,6 @@ Optimize inventory and revenue growth
 
 With attention to  performance tuning and security governance, this project demonstrates real-world data engineering practices that scale.
 
+![CineStream Data Warehouse Architecture](cinestream_datawarehouse_arch.png)
 
 
